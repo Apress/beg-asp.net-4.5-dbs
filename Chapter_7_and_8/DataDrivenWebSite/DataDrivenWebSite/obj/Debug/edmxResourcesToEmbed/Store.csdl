@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="StoreModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="StoreEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Contacts" EntityType="StoreModel.Contact" />
+    <EntitySet Name="Orders" EntityType="StoreModel.Order" />
+    <AssociationSet Name="FK_Orders_Contacts" Association="StoreModel.FK_Orders_Contacts">
+      <End Role="Contacts" EntitySet="Contacts" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <FunctionImport Name="Get_NetPrice" ReturnType="Collection(StoreModel.PriceOptions)">
+      <Parameter Name="OrderID" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <EntityType Name="Contact">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Email" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="State" Type="String" Nullable="false" MaxLength="2" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Orders" Relationship="StoreModel.FK_Orders_Contacts" FromRole="Contacts" ToRole="Orders" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="ContactID" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="Rate" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <NavigationProperty Name="Contact" Relationship="StoreModel.FK_Orders_Contacts" FromRole="Orders" ToRole="Contacts" />
+  </EntityType>
+  <Association Name="FK_Orders_Contacts">
+    <End Role="Contacts" Type="StoreModel.Contact" Multiplicity="1" />
+    <End Role="Orders" Type="StoreModel.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Contacts">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="ContactID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="PriceOptions">
+    <Property Type="Decimal" Name="Price" Nullable="true" Precision="29" Scale="0" />
+  </ComplexType>
+</Schema>

@@ -1,0 +1,12 @@
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\DataAccess\bin\Debug\DataAccess.dll
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\DataAccess\bin\Debug\DataAccess.pdb
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\DataAccess\bin\Debug\EntityFramework.dll
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\DataAccess\bin\Debug\EntityFramework.xml
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\DataAccess\obj\Debug\DataAccess.dll
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\DataAccess\obj\Debug\DataAccess.pdb
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\DataAccess\bin\Debug\Entities.dll
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\DataAccess\bin\Debug\Entities.pdb
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\DataAccess\bin\Debug\Repository.dll
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\DataAccess\bin\Debug\Repository.pdb

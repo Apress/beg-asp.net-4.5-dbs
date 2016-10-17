@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMongoDbProject", "FirstMongoDbProject\FirstMongoDbProject.csproj", "{93008952-9024-4A41-A2C4-F8A05EE2164F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryCollections", "QueryCollections\QueryCollections.csproj", "{3A867BFE-6DA4-475C-9EBA-423645F78995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryCollectionsWithLinq", "QueryCollectionsWithLinq\QueryCollectionsWithLinq.csproj", "{A045F60D-AFFC-4B5E-AE7A-544AF04C3CD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93008952-9024-4A41-A2C4-F8A05EE2164F}.Debug|x86.ActiveCfg = Debug|x86
+		{93008952-9024-4A41-A2C4-F8A05EE2164F}.Debug|x86.Build.0 = Debug|x86
+		{93008952-9024-4A41-A2C4-F8A05EE2164F}.Release|x86.ActiveCfg = Release|x86
+		{93008952-9024-4A41-A2C4-F8A05EE2164F}.Release|x86.Build.0 = Release|x86
+		{3A867BFE-6DA4-475C-9EBA-423645F78995}.Debug|x86.ActiveCfg = Debug|x86
+		{3A867BFE-6DA4-475C-9EBA-423645F78995}.Debug|x86.Build.0 = Debug|x86
+		{3A867BFE-6DA4-475C-9EBA-423645F78995}.Release|x86.ActiveCfg = Release|x86
+		{3A867BFE-6DA4-475C-9EBA-423645F78995}.Release|x86.Build.0 = Release|x86
+		{A045F60D-AFFC-4B5E-AE7A-544AF04C3CD4}.Debug|x86.ActiveCfg = Debug|x86
+		{A045F60D-AFFC-4B5E-AE7A-544AF04C3CD4}.Debug|x86.Build.0 = Debug|x86
+		{A045F60D-AFFC-4B5E-AE7A-544AF04C3CD4}.Release|x86.ActiveCfg = Release|x86
+		{A045F60D-AFFC-4B5E-AE7A-544AF04C3CD4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

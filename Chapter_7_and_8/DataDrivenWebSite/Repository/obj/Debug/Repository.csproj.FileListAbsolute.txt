@@ -1,0 +1,7 @@
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\Repository\bin\Debug\Repository.dll
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\Repository\bin\Debug\Repository.pdb
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\Repository\bin\Debug\Entities.dll
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\Repository\bin\Debug\Entities.pdb
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\Repository\obj\Debug\Repository.dll
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\Repository\obj\Debug\Repository.pdb

@@ -1,0 +1,11 @@
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\QueryCollectionsWithLinq\bin\Debug\QueryCollectionsWithLinq.exe
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\QueryCollectionsWithLinq\bin\Debug\QueryCollectionsWithLinq.pdb
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\QueryCollectionsWithLinq\bin\Debug\MongoDB.Bson.dll
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\QueryCollectionsWithLinq\bin\Debug\MongoDB.Driver.dll
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\QueryCollectionsWithLinq\bin\Debug\MongoDB.Bson.pdb
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\QueryCollectionsWithLinq\bin\Debug\MongoDB.Bson.xml
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\QueryCollectionsWithLinq\bin\Debug\MongoDB.Driver.pdb
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\QueryCollectionsWithLinq\bin\Debug\MongoDB.Driver.xml
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\QueryCollectionsWithLinq\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\QueryCollectionsWithLinq\obj\x86\Debug\QueryCollectionsWithLinq.exe
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\QueryCollectionsWithLinq\obj\x86\Debug\QueryCollectionsWithLinq.pdb

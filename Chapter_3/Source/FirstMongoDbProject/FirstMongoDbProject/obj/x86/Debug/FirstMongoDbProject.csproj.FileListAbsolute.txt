@@ -1,0 +1,11 @@
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\FirstMongoDbProject\bin\Debug\FirstMongoDbProject.exe
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\FirstMongoDbProject\bin\Debug\FirstMongoDbProject.pdb
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\FirstMongoDbProject\bin\Debug\MongoDB.Driver.dll
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\FirstMongoDbProject\bin\Debug\MongoDB.Bson.dll
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\FirstMongoDbProject\bin\Debug\MongoDB.Driver.pdb
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\FirstMongoDbProject\bin\Debug\MongoDB.Driver.xml
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\FirstMongoDbProject\bin\Debug\MongoDB.Bson.pdb
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\FirstMongoDbProject\bin\Debug\MongoDB.Bson.xml
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\FirstMongoDbProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\FirstMongoDbProject\obj\x86\Debug\FirstMongoDbProject.exe
+C:\Author\Apress\Chapter 3\Source\FirstMongoDbProject\FirstMongoDbProject\obj\x86\Debug\FirstMongoDbProject.pdb

@@ -1,0 +1,4 @@
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\Entities\bin\Debug\Entities.dll
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\Entities\bin\Debug\Entities.pdb
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\Entities\obj\Debug\Entities.dll
+C:\Author\Apress\Chapter 7\DataDrivenWebsite\Entities\obj\Debug\Entities.pdb
